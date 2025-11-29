@@ -45,3 +45,6 @@ connectDB().then(() => {
 }).catch(err => {
   console.error("Failed to connect to DB:", err);
 });
+
+
+//added comment for commit
